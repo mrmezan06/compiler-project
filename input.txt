@@ -1,0 +1,16 @@
+main
+integer var|
+integer b|
+var = 20|
+b = 15|
+print{var}|
+print{b}|
+ifc ( 2 > 0 )
+print{"var"}|
+elc
+print{0}|
+elifclose
+for(1 to 10)
+print{3}|
+forclose
+mainclose
